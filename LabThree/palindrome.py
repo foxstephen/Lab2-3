@@ -1,4 +1,4 @@
-inputString = input("Enter a word:")
+inputString = raw_input("Enter a word:")
 
 def reversedString(someString):
     return someString[::-1]
